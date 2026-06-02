@@ -1,0 +1,9 @@
+{
+  "name": "tryggakvinnor-functions",
+  "version": "1.0.0",
+  "description": "Netlify Functions for Trygga Kvinnor",
+  "dependencies": {
+    "stripe": "^14.10.0",
+    "firebase-admin": "^12.0.0"
+  }
+}
